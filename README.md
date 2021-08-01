@@ -18,4 +18,4 @@ Ganache CLI v6.9.1
 Solidity - 0.8.0 (solc-js)
 Web3.js v1.3.6
 ```
-<img src=./public/nft-dapp.gif width=500px>
+<img src=./public/nft-dapp.gif width=1000px>
